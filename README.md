@@ -1,4 +1,4 @@
- 👋 Hi, I'm Muskaan Kamran!
+ 👋 Hi, I'm Muskan Kamran!
 
  💻 **Web & App Developer** passionate about building responsive, user-friendly, and creative digital experiences.
 
