@@ -1,50 +1,42 @@
-<!-- Banner Animation -->
+<!-- 🌸 Girl Animation Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="420"/>
 </p>
 
 <h1 align="center">✨ Hi, I'm Muskan Kamran!</h1>
 
 <p align="center">
-🌸 Web & App Developer | 💻 Frontend Learner | 🚀 Building Creative Digital Experiences
+🌷 Web Developer | 🎀 Frontend Learner | 💻 Creative Digital Builder
 </p>
 
 ---
 
-## 🌷 About Me
+## 🌸 About Me
 
-💡 Currently learning **HTML, CSS, JavaScript & GitHub Basics**  
-🎨 Interested in **Modern Web Design**  
-📚 Exploring frontend development  
-📩 Ask me about web design & app development  
+💡 Learning **Web Development & Modern UI Design**  
+🎨 Love creating aesthetic and responsive websites  
+📚 Exploring Frontend Technologies  
+📩 Ask me about **web design & development**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,mongodb,git,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,mongodb,supabase,git,vscode,linkedin" />
 </p>
 
 ---
 
-## 📊 What I'm Working On
+## 🌼 Currently Working On
 
-🌼 Responsive Web Design  
-🌼 Modern Website UI Practice  
-🌼 Frontend Development Skills  
-
----
-
-## 📫 Connect With Me
-
-📧 Email: **muskaankamran494@gmail.com**  
-🔗 LinkedIn:  
-https://www.linkedin.com/in/muskaan-kamran-1a3a092a/
+🌷 Responsive Website Design  
+🌷 Modern UI Practice  
+🌷 Frontend Development Skills  
 
 ---
 
-## 🌟 GitHub Stats
+## 📊 GitHub Streak & Activity
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Muskaankamran&show_icons=true&theme=tokyonight" width="400"/>
@@ -56,12 +48,20 @@ https://www.linkedin.com/in/muskaan-kamran-1a3a092a/
 
 ---
 
-## 💫 Quote
+## 💌 Connect With Me
 
-> 🌙 "Keep learning, keep building, keep growing."
+📧 Email: **muskaankamran494@gmail.com**  
+🔗 LinkedIn:  
+https://www.linkedin.com/in/muskaan-kamran-1a3a092a/
+
+---
+
+## 🌙 Quote
+
+> ✨ "Keep learning, keep building, keep growing."
 
 ---
 
 <p align="center">
-✨ Thanks for visiting my profile ✨
+🌸 Thanks for visiting my profile 🌸
 </p>
